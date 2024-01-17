@@ -32,5 +32,4 @@
 
 # ⚡ 재미있는 사실
 - **천체망원경**이 있습니다.
-![Github logo]
-(https://telescopicwatch.com/celestron-nexstar-5se-goto-telescope-review/IMG_1812.webp)
+![Github logo]([https://telescopicwatch.com/celestron-nexstar-5se-goto-telescope-review/IMG_1812.webp](https://telewatc.b-cdn.net/wp-content/uploads/2018/11/IMG_1812.jpeg)https://telewatc.b-cdn.net/wp-content/uploads/2018/11/IMG_1812.jpeg)
