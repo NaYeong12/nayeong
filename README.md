@@ -2,7 +2,6 @@
 
 # 👋 소개  
 안녕하세요, 저는 부산대학교 물리학과 학생으로 활동 중인 이나연입니다. 양자역학과 고체물리학에 관심이 많으며, 4학년 재학 예정입니다.  
-![Github logo](\Users\user\Desktop\물개.jpg) 
 
 # 🔍 관심사
 - 저는 **양자역학**을 공부합니다.  
@@ -33,3 +32,5 @@
 
 # ⚡ 재미있는 사실
 - **천체망원경**이 있습니다.
+![Github logo](https://telescopicwatch.com/celestron-nexstar-5se-goto-telescope-review/IMG_1812.webp)
+https://telescopicwatch.com/celestron-nexstar-5se-goto-telescope-review/
