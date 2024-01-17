@@ -31,5 +31,5 @@
 - Twitter: none
 
 # ⚡ 재미있는 사실
-- **천체망원경**이 있습니다.
+- **천체망원경**이 있습니다.  
 ![Github logo](https://telewatc.b-cdn.net/wp-content/uploads/2018/11/IMG_1812.jpeg)
