@@ -25,7 +25,7 @@
 
 ### 📫 연락 방법
 - 이메일: spookyrunners@naver.com
-- LinkedIn: [GitHub](https://spookyrunners.tistory.com "nayeong")
+- LinkedIn: [나드래곤 티스토리](https://spookyrunners.tistory.com "nayeong")
 - Twitter: none
 
 ### ⚡ 재미있는 사실
